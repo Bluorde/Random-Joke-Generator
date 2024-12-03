@@ -41,7 +41,7 @@ This project is inspired by and sourced from [Coding Artist](https://www.codinga
 - Each click fetches a new joke.  
 
 ## Live Demo  
-[Check out the live demo here!](#) *(Add link if hosted)*  
+[Check out the live demo here!](https://stunning-naiad-486cd3.netlify.app/)
 
 ## Acknowledgments  
 This project was inspired by the tutorials and guidance from [Coding Artist](https://www.codingartistweb.com).
